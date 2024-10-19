@@ -17,7 +17,7 @@ Once the wd382.html has loaded, it will access the image files when prompted and
 
 There are some hotkeys to operate the model, which are as follows:
 
-Use Space to initiate training, this will take seevral seconds as the data is created from the images, but can be seen in the console as it counts to 9100 before it starts.
+Use Space to initiate training, this will take several seconds as the data is created from the images, but can be seen in the console as it counts to 9100 before it starts.
 
 I forget the rest, check the code for the keysPressed object to see. 
 
