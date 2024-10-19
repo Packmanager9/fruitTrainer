@@ -1,6 +1,6 @@
 
 This project uses pixel data lifted from images present in this directory, 
-to test this project locally, you will need to run the wb382.html file in a browser such as chrome.
+to test this project locally, you will need to run the wd382.html file in a browser such as chrome.
 
 On mac you will need to run the following command in your terminal 
 
@@ -12,7 +12,7 @@ chrome.exe  --disable-site-isolation-trials --disable-web-security --user-data-d
 
 These commands open an instance of chrome with disabled security, this allows the pixel data to be from a local origin. 
 
-Once the wb382.html has loaded, it will access the image files when prompted and load them into the program. 
+Once the wd382.html has loaded, it will access the image files when prompted and load them into the program. 
 
 
 There are some hotkeys to operate the model, which are as follows:
