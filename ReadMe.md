@@ -12,8 +12,7 @@ chrome.exe  --disable-site-isolation-trials --disable-web-security --user-data-d
 
 These commands open an instance of chrome with disabled security, this allows the pixel data to be from a local origin. 
 
-Once the wb382.html has loaded, it will access the wnet.js file by default and load it into the program. 
-wnet is a trained diffusion model that can produce fruit-like smudges under proper guidance. 
+Once the wb382.html has loaded, it will access the image files when prompted and load them into the program. 
 
 
 There are some hotkeys to operate the model, which are as follows:
